@@ -226,7 +226,7 @@ sh compile_op.sh
 <div align=center><img width="100%" src="figs/LineMod.png"/></div>
 
 - **Qualitative Results on the LineMod Dataset**
-<div align=center><img width="100%" src="figs/2.PNG"/></div>
+<div align=center><img width="100%" src="figs/2.png"/></div>
 
 
 
