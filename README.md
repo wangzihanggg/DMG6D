@@ -23,7 +23,7 @@ This is a official implementation for paper "DMG6D: A Depth-based Multi-Flow Glo
 
 
 ## Introduction & Citation
-<div align=center><img width="100%" src="figs/framework.PNG"/></div>
+<div align=center><img width="100%" src="figs/framework.png"/></div>
 
 DMG6D is a general framework for representation learning from a depth image, and we applied it to the 6D pose estimation task by cascading downstream prediction headers for instance semantic segmentation and 3D keypoint voting prediction from FFB6D.
 
@@ -223,7 +223,7 @@ sh compile_op.sh
   <summary>[Click to expand]</summary>
 
 - **Evaluation on the LineMod Dataset**
-<div align=center><img width="100%" src="figs/LineMod.PNG"/></div>
+<div align=center><img width="100%" src="figs/LineMod.png"/></div>
 
 - **Qualitative Results on the LineMod Dataset**
 <div align=center><img width="100%" src="figs/2.PNG"/></div>
