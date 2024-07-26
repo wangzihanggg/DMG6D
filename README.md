@@ -1,4 +1,4 @@
-# [IEEE CASE 2024]DMG6D: A Depth-based Multi-Flow Global Fusion Network for 6D Pose Estimation
+# [IEEE CASE 2024] DMG6D: A Depth-based Multi-Flow Global Fusion Network for 6D Pose Estimation
 
 This is a official implementation for paper "DMG6D: A Depth-based Multi-Flow Global Fusion Network for 6D Pose Estimation"
 
